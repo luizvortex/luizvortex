@@ -115,7 +115,7 @@ Meu nome é Luiz Felipe Morisco, tenho 19 anos, sou estudante de Direito na Unem
   />
 
 <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
       height="175" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizvortex&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
