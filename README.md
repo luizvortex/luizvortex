@@ -105,4 +105,4 @@ Meu nome é Luiz Felipe Morisco, tenho 19 anos, sou estudante de Direito na Unem
 
 ### 📊 Estatísticas
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brunpena&theme=github-compact&hide_border=true)
+
