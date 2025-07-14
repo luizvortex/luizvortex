@@ -2,7 +2,6 @@
 
 **`Desenvolvedor Aspirante`**
 
-Meu nome é Luiz Felipe Morisco, tenho 19 anos, sou estudante de Direito na Unemat e um entusiasta da tecnologia em jornada para me tornar desenvolvedor. Acredito que o futuro do Direito está profundamente conectado à inovação e vejo na programação o caminho para construir essa ponte.
 <p align="left">
     <a href="https://www.instagram.com/luizmorisco/?next=%2F">
         <img 
